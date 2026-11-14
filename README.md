@@ -15,13 +15,13 @@ Repository: danielclaudio08/danielclaudio08
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=Building+practical+web+applications;Backend+Development+%7C+REST+APIs+%7C+Databases;Node.js+%7C+Express.js+%7C+MongoDB;JavaScript+%7C+HTML+%7C+CSS+%7C+C%23;E-Commerce+%7C+Shopify+%7C+Business+Operations;Software+Development+Student+at+BYU-Idaho" alt="Animated introduction"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/danielclaudio/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<br/><br/>
+<br/>
 
 *Building practical digital solutions through technology, problem-solving, and continuous learning.*
 
