@@ -250,14 +250,6 @@ Explore my repositories, coding activity, achievements, and ongoing development 
   </a>
 </p>
 
-My GitHub profile provides my contribution graph, repository activity, pinned projects, and achievements.
-
-<p align="center">
-  <a href="https://github.com/danielclaudio08?tab=overview">View My GitHub Overview</a>
-  &nbsp; | &nbsp;
-  <a href="https://github.com/danielclaudio08?tab=repositories">Explore All Repositories</a>
-</p>
-
 ---
 
 ## Let's Connect
