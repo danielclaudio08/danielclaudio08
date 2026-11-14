@@ -29,7 +29,7 @@ Repository: danielclaudio08/danielclaudio08
 
 ---
 
-## 1. Personal Introduction
+## About Me
 
 Hello! I'm **Daniel Claudio**, a Software Development student at **Brigham Young University–Idaho (BYU-I)** with a professional background in e-commerce operations, sales, data management, and administrative leadership.
 
@@ -62,7 +62,7 @@ I value connecting technology with real-world business needs and continuously de
 
 ---
 
-## 2. Skills and Technologies
+## Skills and Technologies
 
 ### Technology Stack
 
@@ -121,7 +121,7 @@ I value connecting technology with real-world business needs and continuously de
 
 ---
 
-## 3. Projects and Work
+## Projects and Work
 
 Selected academic projects and practical development experience from my software development journey.
 
@@ -229,7 +229,7 @@ Programming assignments and exercises focused on object-oriented programming and
 
 ---
 
-## 4. GitHub Statistics
+## GitHub Statistics
 
 Explore my repositories, coding activity, achievements, and ongoing development progress.
 
